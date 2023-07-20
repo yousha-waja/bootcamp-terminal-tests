@@ -7,6 +7,4 @@ export default function allFromTown (string,town){
      }
     }
     return (answer);
-    
-    
    }
